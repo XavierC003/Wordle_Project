@@ -32,7 +32,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![wordle gif](https://github.com/XavierC003/Wordle_Project/assets/156828428/a61dcbaa-683e-465f-8807-284582740dd3)
+![Wordle](https://github.com/XavierC003/Wordle_Project/assets/156828428/3d6adccb-a286-4dce-8110-c63f2967687a)
+
 
 ## Notes
 
