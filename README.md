@@ -1,4 +1,4 @@
-# Android Project 1 - *Name of App Here*
+# Android Project 1 - *Wordle*
 
 Submitted by: **Xavier Christian**
 
@@ -32,9 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
 ![wordle gif](https://github.com/XavierC003/Wordle_Project/assets/156828428/a61dcbaa-683e-465f-8807-284582740dd3)
-
 
 ## Notes
 
@@ -44,7 +42,7 @@ I had a challenge with the functionality of the app particularly in the check gu
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Xavier Christian]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
